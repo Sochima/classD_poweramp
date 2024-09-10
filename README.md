@@ -1,2 +1,4 @@
 # classD_poweramp
-Schematic and PCB files of a 15 W stereo amplifier
+Schematic and PCB files of a 15 W stereo Class D power amplifier
+
+
